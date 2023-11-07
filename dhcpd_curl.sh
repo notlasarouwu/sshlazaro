@@ -16,9 +16,9 @@ echo $STRING
 #TOKEN=""
 #headerToken="--header Authorization: token $TOKEN"
 headerToken=""
-OWNER="josemmol"
-REPO="S2I"
-PATHFILE="main/CON-UBS-22-DHCP/etc/dhcp/dhcpd.conf"
+OWNER="notlasarouwu"
+REPO="sshlazaro"
+PATHFILE="main/dhcpd.conf" 
 f_dchpd_conf="https://raw.githubusercontent.com/$OWNER/$REPO/$PATHFILE"
 
 # Print f_dchpd_conf on screen
