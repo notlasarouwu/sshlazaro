@@ -2,7 +2,7 @@
 
 # Purpose: Config ubuntu DHCP server
 # https://ubuntu.com/server/docs/network-dhcp
-# Author: Jose Maria Madronal GPL v2.0+ (Proxmox script)
+# Author: Ismael Verdugo Buzon
 # ------------------------------------------
 #
 
